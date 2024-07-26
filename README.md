@@ -18,7 +18,8 @@ We show an example input file in "Input".
 The output of **SCJ Vote scaffolder.exe** will be placed in the folder you specified.
 
 The scaffolding result will be named as **ScaffoldResult**. Our scaffolder also outputs two simple dotplots, **DotplotBefore.png** and **DotplotAfterSCF.png**.
-  
+
+We show an example input file in "Results".
 
 ## Relevant Paper
 
