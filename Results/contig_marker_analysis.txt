@@ -1,0 +1,19 @@
+After parsing:
+#All contigs: 168
+#Used contigs: 168
+%Used contigs: 1.0
+#All markers: 5007
+
+After remove_part1:
+Remove #ctg: 6
+#All markers: 4308
+
+After remove_part2:
+Remove #ctg: 28
+#All markers: 2144
+
+After remove duplications:
+#All contigs: 168
+#Used contigs: 140
+%Used contigs: 0.8333333333333334
+#All markers: 2144
