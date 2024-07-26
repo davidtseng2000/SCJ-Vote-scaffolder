@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # SCJ Vote scaffolder: A multiple reference-based scaffolder
 
   ## Algorithm
@@ -25,7 +23,3 @@ The scaffolding result will be named as **ScaffoldResult**. Our scaffolder also 
 ## Relevant Paper
 
 [SCJ: A Breakpoint-Like Distance that Simplifies Several Rearrangement Problems](https://www.researchgate.net/publication/49853612_SCJ_A_Breakpoint-Like_Distance_that_Simplifies_Several_Rearrangement_Problems)
-=======
-# SCJ-Vote-scaffolder
-A multiple reference-based scaffolder based on SCJ distance.
->>>>>>> origin/main
