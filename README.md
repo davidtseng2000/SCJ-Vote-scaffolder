@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # SCJ Vote scaffolder: A multiple reference-based scaffolder
 
   ## Algorithm
